@@ -1,2 +1,1 @@
-Hello Git!
-amai aiuda
+new Hello Git!
